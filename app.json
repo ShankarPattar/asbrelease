@@ -1,11 +1,24 @@
 {
   "expo": {
-    "name": "asbrelease",
+    "name": "ಶ್ರೀ ಆರೂಢ ಸಂಗನಬಸವೇಶ್ವರ",
     "slug": "asbrelease",
-    "version": "1.0.0",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/iconO.png",
+    "splash": {
+      "image": "./assets/splash1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "01bffe02-a768-420a-8930-71e3dd19066b"
+      }
+    }
   },
-  "name": "asbrelease"
+  "name": "ಶ್ರೀ ಆರೂಢ ಸಂಗನಬಸವೇಶ್ವರ"
 }
